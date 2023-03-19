@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1674470694 source:c:\users\mristanovic2720s\desktop\ispit\a_matija_ristanovic_s_27_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funckije.h"
+
+1674470645 source:c:\users\mristanovic2720s\desktop\ispit\a_matija_ristanovic_s_27_20\funckije.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funckije.h"
+
+1674470694 c:\users\mristanovic2720s\desktop\ispit\a_matija_ristanovic_s_27_20\funckije.h
+
